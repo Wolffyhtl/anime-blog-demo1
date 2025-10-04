@@ -117,10 +117,10 @@ home_banner:
     light: /images/main_bg_ligth.jpg # light mode
     dark: /images/main_bg.jpg # dark mode
   # Home banner title
-  title: Jack's Blog
+  title: Clina's Blog
   # Home banner subtitle
   subtitle:
-    text: ['Welcome to my blog'] # subtitle text, array
+    text: ['Welcome to Clina's blog'] # subtitle text, array
     hitokoto:  # Hitokoto Configuration
       enable: false # Whether to enable hitokoto
       show_author: true # Whether to show author
@@ -159,11 +159,11 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github:  https://github.com/EvanNotFound/hexo-theme-redefine # your GitHub URL
+      github:  https://github.com/Wolffyhtl # your GitHub URL
       instagram: # your Instagram URL
       zhihu:  # your ZhiHu URL
       # twitter:  https://x.com/TencentCloudEO # your twitter URL
-      email:  # your email
+      email:  havala@tuta.io # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
