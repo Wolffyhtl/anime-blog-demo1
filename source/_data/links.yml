@@ -10,9 +10,9 @@
 - links_category: This is the second categrory
   has_thumbnail: false
   list:
-      - name: IDC Flare
-        link: https://idcflare.com
-        description: IDC Flare
+      - name: Partner Link 1
+        link: https://example.com
+        description: Example Site Description
         avatar: /images/avatar-1.jpg
       - name: Partner Link 2
         link: https://example.com
