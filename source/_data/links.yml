@@ -2,7 +2,7 @@
   has_thumbnail: true
   list:
       - name: Clina's Blog
-        link: https://yay.osfc.org.cn
+        link: https://example.com
         description: I will refresh my article every day.
         avatar: /images/avatar-0.jpg
         thumbnail: /images/desc-image.jpg # has_thumbnail 为 true 时才需要
