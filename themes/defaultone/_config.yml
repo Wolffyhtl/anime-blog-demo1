@@ -120,7 +120,7 @@ home_banner:
   title: Clina's Blog
   # Home banner subtitle
   subtitle:
-    text: ['Welcome to Clina's blog'] # subtitle text, array
+    text: ['Welcome to my blog'] # subtitle text, array
     hitokoto:  # Hitokoto Configuration
       enable: false # Whether to enable hitokoto
       show_author: true # Whether to show author
