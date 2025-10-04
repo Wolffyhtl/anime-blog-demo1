@@ -1,4 +1,8 @@
-# PublicFreeSuffix免费域名申请教程
+---
+title: PublicFreeSuffix免费域名申请教程
+banner: "域名申请教程"
+cover: https://images.bauerhosting.com/empire/2024/05/01-Princess-Mononoke.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80
+---
 如题，此帖讲的是PublicFreeSuffix免费域名的申请教程.
 首先，打开他们的GitHub仓库地址：
 `https://github.com/PublicFreeSuffix/PublicFreeSuffix`
