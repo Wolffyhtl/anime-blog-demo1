@@ -13,13 +13,13 @@
       - name: IDC Flare
         link: https://idcflare.com
         description: IDC Flare
-        avatar: /images/avatar-1.jpg
+        avatar: /images/idcflarelogo.png
       - name: LINUX DO
         link: https://linux.do
         description: LINUX DO
-        avatar: /images/avatar-2.png
+        avatar: /images/linuxdologo.png
       - name: Tencent EdgeOne
         link: https://edgeone.ai
         description: Tencent EdgeOne
-        avatar: /images/avatar-3.png
+        avatar: /images/edgeonelogo.jpg
  
