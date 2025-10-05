@@ -1,5 +1,10 @@
+---
+title: osfc.org.cn && osfs.top域名注册教程
+banner: "域名注册"
+cover: https://registry.osfc.org.cn/logo.png
+---
 如题，今天讲的是这两个域名的注册教程，暂时都无法托管到Cloudflare.<br>
-官网地址：https://registry.osfc.org.cn/<br>
+官网地址：`https://registry.osfc.org.cn`<br>
 我的邀请链接：https://registry.osfc.org.cn/register?invite=286<br>
 推荐使用邀请链接，因为那样你可以拿到20Points奖励<br>
 第一步，使用上面两个链接的其中一个，进入官网.<br>
