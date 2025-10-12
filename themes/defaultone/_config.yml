@@ -6,7 +6,7 @@ info:
   # Author name
   author: Clina
   # Site URL
-  url: https://your-domain.com
+  url: https://clina.webn.cc
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -195,7 +195,7 @@ navbar:
       path: /archives 
       icon: fa-regular fa-archive # can be empty
     Github: 
-      path: https://github.com/EvanNotFound
+      path: https://github.com/Wolffyhtl
       icon: fa-brands fa-github
       # submenus:
       #   Link1: /link1
@@ -216,7 +216,7 @@ navbar:
       # submenus:
       #   Me: /about
       #   Github: https://github.com/Wolffyhtl/hexo-theme-redefine
-      #   Blog: https://yay.osfc.org.cn
+      #   Blog: https://clina.webn.cc
       #   Friends: /friends
     # ...... # you can add more
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
@@ -345,9 +345,9 @@ effects:
 # Docs: https://redefine-docs.ohevan.com/posts/comment
 comment:
   # Whether to enable comment
-  enable: false
+  enable: true
   # Comment system
-  system: waline # waline, gitalk, twikoo, giscus
+  system: gitalk # waline, gitalk, twikoo, giscus
   # System configuration
   config:
     # Waline comment system. See https://waline.js.org/
