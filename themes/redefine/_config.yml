@@ -11,13 +11,13 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme Redefine
+  title: Clina's Blog
   # Site subtitle
-  subtitle: Redefine Your Hexo Journey.
+  subtitle: Welcome to my blog.
   # Author name
-  author: The Redefine Team
+  author: Clina
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://clina.webn.cc
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -218,8 +218,8 @@ navbar:
     #   icon: fa-regular fa-user
     #   submenus:
     #     Me: /about
-    #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
-    #     Blog: https://ohevan.com
+    #     Github: https://github.com/Wolffyhtl/
+    #     Blog: https://clina.webn.cc
     #     Friends: /friends
     # Links: 
     #   icon: fa-regular fa-link
@@ -352,7 +352,7 @@ comment:
   # Whether to enable comment
   enable: true
   # Comment system
-  system: waline # waline, gitalk, twikoo, giscus
+  system: gitalk # waline, gitalk, twikoo, giscus
   # System configuration
   config:
     # Waline comment system. See https://waline.js.org/
