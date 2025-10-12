@@ -365,10 +365,10 @@ comment:
       reaction: false # Waline reaction. See https://waline.js.org/reference/client/props.html#reaction
     # Gitalk comment system. See https://github.com/gitalk/gitalk
     gitalk:
-      clientID: # GitHub Application Client ID
-      clientSecret: # GitHub Application Client Secret
-      repo: # GitHub repository
-      owner: # GitHub repository owner
+      clientID: 'Ov23licuIvOqtL5GQBHy' # GitHub Application Client ID
+      clientSecret: '6ff4035eb4d488692e34c1231db2bcd5664ce905'# GitHub Application Client Secret
+      repo: 'Comments' # GitHub repository
+      owner: 'wolffyhtl' # GitHub repository owner
       proxy: # GitHub repository proxy
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
