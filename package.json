@@ -29,6 +29,8 @@
     "particles.js": "^2.0.0",
     "live2d-widget-model-chitose": "^1.0.5",
     "live2d-widget-model-gf": "^1.0.5",
-    "live2d-widget-model-wanko": "^1.0.5"
+    "live2d-widget-model-wanko": "^1.0.5",
+    "axios": "^0.27.2",
+    "p-limit": "^2.3.0"
   }
 }
