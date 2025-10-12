@@ -97,21 +97,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: defaultone
-
-aisummary:
-  enable: false                                                   # 是否启用插件
-  api: https://api.chatanywhere.org # OpenAI 或腾讯云的 Hunyuan 模型
-  token: sk-bBodvSl3B4hGT65N5IpxQY5e8r3r1ysjREom3NZMYBQtMD4r             # OpenAI 或兼容模型的密钥
-  model: gpt-5-nano-ca                                        # 使用模型名称
-  summary_field: summary                                         # 摘要字段
-  cover_all: false                                               # 是否启用全部覆盖（既重新生成）
-  concurrency: 2                                                 # 并发处理数
-  max_input_length: 3000  # 输入文本长度限制(腾讯推荐2000字以内)
-  prompt: "请用简体中文生成一段简洁的摘要，要求：1.长度在80-120字之间 2.包含文章核心观点 3.输出内容开头为“这里小歪AI，这篇文章” 4.不要包含代码和公式"
-  max_tokens: 120       # 混元模型建议稍大的token限制
-  temperature: 0.5      # 创造性稍高的温度值（0.1~2.0）
-  timeout: 10000        # 腾讯API建议稍长的超时时间
-  
+ 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
