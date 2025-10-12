@@ -99,7 +99,7 @@ ignore:
 theme: defaultone
 
 aisummary:
-  enable: true                                                   # 是否启用插件
+  enable: false                                                   # 是否启用插件
   api: https://api.chatanywhere.org # OpenAI 或腾讯云的 Hunyuan 模型
   token: sk-bBodvSl3B4hGT65N5IpxQY5e8r3r1ysjREom3NZMYBQtMD4r             # OpenAI 或兼容模型的密钥
   model: gpt-5-nano-ca                                        # 使用模型名称
