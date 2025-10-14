@@ -171,16 +171,16 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: false
+    enable: true
     # Social links style
     style: default # default, reverse, center
     # Social links
     links:
-      github:  # your GitHub URL
+      github: https://github.com/Wolffyhtl # your GitHub URL
       instagram: # your Instagram URL
       zhihu:  # your ZhiHu URL
       twitter:  # your twitter URL
-      email:  # your email
+      email: havala@tuta.io # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -208,20 +208,20 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    # Archives: 
+     Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
-    # Status: 
+    #  Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
-    # About: 
+     About: 
     #   icon: fa-regular fa-user
     #   submenus:
     #     Me: /about
     #     Github: https://github.com/Wolffyhtl/
     #     Blog: https://clina.webn.cc
     #     Friends: /friends
-    # Links: 
+     Links: 
     #   icon: fa-regular fa-link
     #   submenus:
     #     Link1: /link1
@@ -231,7 +231,7 @@ navbar:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
-    enable: false
+    enable: true
     # Preload search data when the page loads
     preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -248,10 +248,10 @@ home:
     announcement: # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
-      # Archives: 
+       Archives: 
       #   path: /archives 
       #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
+       Tags: 
       #   path: /tags 
       #   icon: fa-regular fa-tags # can be empty
       # Categories: 
@@ -433,7 +433,7 @@ inject:
 plugins:
   # RSS feed. Requires hexo-generator-feed (npm i hexo-generator-feed). See https://github.com/hexojs/hexo-generator-feed
   feed:
-    enable: false # Whether to enable
+    enable: true # Whether to enable
   # Aplayer. See https://github.com/DIYgod/APlayer
   aplayer:
     enable: false # Whether to enable
