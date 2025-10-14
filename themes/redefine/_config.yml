@@ -205,23 +205,23 @@ navbar:
     pages: 1000px #other pages
   # Navbar links
   links:
-    Home: 
-      path: / 
-      icon: fa-regular fa-house # can be empty
-     Archives: 
+   # Home: 
+     # path: / 
+    #  icon: fa-regular fa-house # can be empty
+    # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
     #  Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
-     About: 
+    # About: 
     #   icon: fa-regular fa-user
     #   submenus:
     #     Me: /about
     #     Github: https://github.com/Wolffyhtl/
     #     Blog: https://clina.webn.cc
     #     Friends: /friends
-     Links: 
+   #  Links: 
     #   icon: fa-regular fa-link
     #   submenus:
     #     Link1: /link1
